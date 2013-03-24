@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 /nbproject/private/
+=======
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+>>>>>>> 372612d7d90bc85f1c264d0c7d3b24f2b2719cd5
